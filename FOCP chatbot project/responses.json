@@ -1,0 +1,37 @@
+{
+    "keywords": {
+        "coffee": "The campus coffee bar is open from 9 AM to 7 PM and serves a variety of beverages and snacks.",
+        "library": "The library is open from 8 AM to 9 PM daily. Please bring your student ID to access library services.",
+        "admissions": "You can contact admissions at admissions@thebritishcollege.edu.np or call +977 1-5970003.",
+        "sports": "The sports facilities include a gym and a multipurpose court, open from 7 AM to 8 PM. Join our sports clubs to stay active!",
+        "courses": "We offer undergraduate, postgraduate, and short professional courses. Visit thebritishcollege.edu.np/programmes for details.",
+        "fees": "Tuition fees vary by program. Visit thebritishcollege.edu.np/fees or contact the finance office for detailed information.",
+        "hostel": "Hostel accommodations are available nearby the campus. Contact student services at hostel@thebritishcollege.edu.np for more information.",
+        "scholarships": "The British College provides merit-based and need-based scholarships. Visit thebritishcollege.edu.np/scholarships to learn more.",
+        "events": "Stay updated with campus events on the college events page at thebritishcollege.edu.np/events.",
+        "transport": "The college provides transportation services from major areas in Kathmandu. Contact admin for details and schedules.",
+        "wifi": "Campus WiFi, 'TBCNet', is accessible 24/7. Use your student ID credentials to connect.",
+        "parking": "Limited parking is available for students. Contact the administration office to apply for a parking permit.",
+        "food": "The cafeteria offers a mix of local and international cuisines. It's open from 8 AM to 7 PM.",
+        "exam": "Exam schedules and guidelines are posted at thebritishcollege.edu.np/exams. Best of luck, {user_name}!",
+        "orientation": "New student orientation will be held in the main conference hall on Monday at 10 AM.",
+        "clubs": "We have a variety of student clubs, including Debate, Drama, Music, and Tech. Visit thebritishcollege.edu.np/clubs to join.",
+        "internships": "Career services can assist you with internships. Visit the Career Hub or go to thebritishcollege.edu.np/careers for more info.",
+        "faculty": "Our faculty profiles and contact details are available at thebritishcollege.edu.np/faculty.",
+        "support": "Need help? Student support services are available at thebritishcollege.edu.np/support or visit the help desk on campus.",
+        "health": "The health center is open from 9 AM to 5 PM. For emergencies, contact the student services office.",
+        "fitness": "The fitness center is open from 7 AM to 8 PM. Join group fitness classes to stay in shape!"
+    },
+    "random_responses": [
+        "I'm not sure about that, {user_name}. Can you try rephrasing?",
+        "That's a great question, {user_name}! Let me check on that.",
+        "Hmm, I don't have an answer for that right now, {user_name}.",
+        "Let me get back to you on that, {user_name}!",
+        "Great question, {user_name}! I'd recommend checking with the administration office.",
+        "Sorry, {user_name}, I don't have that information. Maybe the website can help?",
+        "Can you give me more details, {user_name}?",
+        "I'm here to help, {user_name}, but I may need some time to find an answer.",
+        "Good question, {user_name}! Have you checked The British College website for more info?",
+        "I'll have to think about that one, {user_name}."
+    ]
+}
